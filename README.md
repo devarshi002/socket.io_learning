@@ -43,7 +43,7 @@ This project is a simple real-time chat application built using Socket.IO for th
 
 ## Screenshots
 
-![Screenshot 1](screenshots/socket.png)
+![socket](https://github.com/devarshi002/socket.io_learning/assets/124704583/cc09f0af-3450-44dc-8177-fb8d27c1e67b)
 
 
 ## Contributing
